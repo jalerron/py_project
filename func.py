@@ -1,4 +1,4 @@
-def sub_variables(a, b):
+def sum_variables(a, b):
     return int(a + b)
 
 
